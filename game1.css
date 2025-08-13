@@ -1,0 +1,43 @@
+body{
+    background: url('https://media.istockphoto.com/id/587510458/vector/frame-with-mechanical-parts-gears-and-cogs-on-texture-background.jpg?s=612x612&w=0&k=20&c=D3cz1O7UWqlXc1YhwgGk-Oh41IPw7njzQpVn3PbOwMk=');
+    background-repeat: no-repeat;
+    background-size:cover;
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+#card{
+    width: 200px;
+    height: 200px;
+    background: rgba(207, 140, 57, 0.663);
+    border-radius: 50% 50% 50% 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 25px;
+    font-weight: bold;
+    font-size: 150%;
+
+}
+
+#container {
+        width: 350px;
+        height: 350px;
+        justify-content: center;
+        display: flex;
+        margin: 0%;
+        align-items: center;
+        padding: 20px;
+        border: 2px solid #333;
+        border-radius: 50% 50% 50% 50%;
+        background: url('https://i5.walmartimages.com/asr/82413b8c-1200-4242-b46c-7ec699af7864.58b83b25eada112a9c8c5527bd710eb7.jpeg');
+        background-repeat: no-repeat;
+        background-size:cover;
+        text-align: center;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        font-family: Arial, sans-serif;
+    }
